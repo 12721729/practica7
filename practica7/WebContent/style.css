@@ -1,0 +1,10 @@
+@charset "UTF-8";
+ul li.circulo {
+	list-style-type:circle;
+}
+ul li ol.numero{
+	list-style-type:upper-roman;
+}
+ul li ol.latin {
+	list-style-type: lower-latin;
+}
